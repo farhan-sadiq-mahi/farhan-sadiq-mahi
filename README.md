@@ -5,7 +5,7 @@ solve new problems and continuously learn new things to make the applications an
 
 Thanks
 # You can reach me
-## [LinkedIn](https://www.linkedin.com/in/md-farhan-sadiq-781a851a4/)
-## [Email](mdfarhansadiq17@gmail.com)
+## [LinkedIn](https://www.linkedin.com/in/md-farhan-sadiq-781a851a4/) : MD. Farhan Sadiq
+## [Email](mdfarhansadiq17@gmail.com) : mdfarhansadiq17@gmail.com
 
 
