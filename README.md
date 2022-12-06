@@ -8,5 +8,4 @@ Thanks
 ## You can reach me
 ### [LinkedIn](https://www.linkedin.com/in/md-farhan-sadiq-781a851a4/) : [MD. Farhan Sadiq](https://www.linkedin.com/in/md-farhan-sadiq-781a851a4/)
 ### [Email](mdfarhansadiq17@gmail.com) : mdfarhansadiq17@gmail.com
-### [Whatsapp](+8801719551726) : +880 1719551726
-
+### [Whatsapp](+8801816836486) : +880 1816836486
