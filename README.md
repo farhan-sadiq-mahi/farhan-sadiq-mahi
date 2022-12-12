@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, There</h1>
 
-- 👋 Hi, I’m Kasim Shaikh
+- 👋 Hi, I’m Md. Farhan Sadiq
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="25" />
 - 💞️ I’m looking to collaborate on any web project
