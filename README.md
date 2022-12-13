@@ -26,13 +26,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"></code>
 
 
-### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasim393&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### GitHub Streak
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kasim393&theme=highcontrast&hide_border=true" alt="kasim393" />
 
 
 
