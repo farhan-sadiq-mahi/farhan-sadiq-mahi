@@ -29,5 +29,3 @@
 
 
 
-
-![](https://komarev.com/ghpvc/?username=kasim393&style=flat-square&color=38bdae)
