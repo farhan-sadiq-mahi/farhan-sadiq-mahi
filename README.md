@@ -7,9 +7,10 @@
 - 📫 How to reach me 
 
 <p>
-    <a href="https://www.twitter.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
+    
     <a href="https://www.linkedin.com/in/md-farhan-sadiq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
     <a href="https://md-farhan-sadiq-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-9cf?&style=for-the-badge" height="25" /></a>
+    <a href="https://www.twitter.com"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" /></a>
 </p>
 
 **Languages and Tools:**  
