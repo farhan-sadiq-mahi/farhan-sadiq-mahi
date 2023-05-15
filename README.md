@@ -17,9 +17,10 @@ I'm a passionate MERN stack developer with a strong focus on creating robust and
 
 ## 💼 Professional Experience
 
-**Company Name**, City, State
+**Web Wizards**
+Dhaka City, Bangladesh
 *Role: MERN Stack Developer*
-*Duration: Month/Year - Month/Year*
+*Duration: Dec/2022 - Present*
 
 - Developed and maintained responsive and user-friendly web applications using the MERN stack.
 - Collaborated with cross-functional teams to define project requirements and ensure smooth development processes.
@@ -31,7 +32,7 @@ I'm a passionate MERN stack developer with a strong focus on creating robust and
 
 ## 🌟 Notable Projects
 
-**Project Name**
+**Project Tracker**
 *Description*
 
 - [GitHub Repository](link)
