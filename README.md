@@ -53,9 +53,9 @@ Dhaka City, Bangladesh
 
 If you're interested in collaborating on a project or have any questions, feel free to reach out to me:
 
-- Email: [Your Email Address](mailto:mdfarhansadiq17@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/md-farhan-sadiq)
-- Personal Website: [Your Website](https://md-farhan-sadiq-portfolio.netlify.app/)
+- Email: [mdfarhansadiq17@gmail.com](mailto:mdfarhansadiq17@gmail.com)
+- LinkedIn: [MD. Farhan Sadiq](https://www.linkedin.com/in/md-farhan-sadiq)
+- Personal Website: [Portfolio](https://md-farhan-sadiq-portfolio.netlify.app/)
 
 Let's connect and discuss how we can bring your ideas to life!
 
