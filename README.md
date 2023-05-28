@@ -17,7 +17,7 @@ I'm a passionate MERN stack developer with a strong focus on creating robust and
 
 ## 💼 Professional Experience
 
-**Team Web Wizards**
+**Team Arricron**
 
 Dhaka City, Bangladesh
 
